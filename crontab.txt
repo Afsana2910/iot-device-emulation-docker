@@ -1,2 +1,2 @@
-0 * * * * python /mnt/test.py >> /var/log/test.log
+0 * * * * python /mnt/orchestrator.py.py >> /var/log/orchestrator.log
 
