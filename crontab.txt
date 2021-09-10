@@ -1,0 +1,2 @@
+0 * * * * python /mnt/test.py >> /var/log/test.log
+
